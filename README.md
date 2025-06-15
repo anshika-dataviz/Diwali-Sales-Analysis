@@ -31,7 +31,10 @@ The dataset contains sales records of a retail business during the Diwali season
 ## 🔚 Outcome
 The analysis helps brands focus marketing campaigns more effectively during Diwali and similar peak seasons. With clear visualizations and strategic insights, this project showcases the power of Python in business data analysis.
 
+---
 
+![Customer Age Distribution](age.png)
+![Top Cities by Amount](state.png)
 
 ---
 
