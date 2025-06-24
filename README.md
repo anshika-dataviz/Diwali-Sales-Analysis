@@ -39,6 +39,6 @@ The analysis helps brands focus marketing campaigns more effectively during Diwa
 ---
 
 ## 📬 Connect with Me
-📧 [anshikasharma@example.com](mailto:anshikasharma200522@gmail.com)  
+📧 [anshikasharma200522@gmail.com](mailto:anshikasharma200522@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/anshika-sharma-47b393348/)
 
